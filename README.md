@@ -40,15 +40,32 @@ https://scratch.mit.edu/projects/944277094
 Percobaan pada VS Code
  
 ##	Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v]
+
 ##	Mendemostrasikan Pembuatan Aplikasi/Game pada Platform: Mobile/Desktop/Web Browser
+https://www.youtube.com/watch?v=KDb7iKpugsM&t=24s
+
 ##	Mencoba Instalasi Database (PostgreSQL/MySQL/dsb) [v]
  
 ##	Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer(Dbeaver/dsb) [v]
  
 ##	Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]
+Web browser adalah perangkat lunak yang memungkinkan kamu untuk mencari, mengakses, dan menampilkan halaman website di internet. Perlu diketahui, web browser bukanlah mesin pencarian melainkan sebuah perangkat lunak yang menaampilkan halaman web seperti Google Chrome, Microsoft Edge, Mozilla Firefox, atau Opera. 
+
+Data yang ditransfer lalu dituliskan dalam Hypertext Markup Language (HTML). HTML berfungsi untuk memberitahu web browser di mana setiap elemen berada di halaman website. Hal ini akan memastikan kesamaan tampilan halaman website, meskipun diakses dari tiap web browser yang berbeda. Setelah data diterima, web browser akan mengolahnya menggunakan perangkat lunak yang disebut rendering engine. Hal ini dilakukan untuk menerjemahkan data website menjadi teks dan gambar yang mudah kamu pahami. Semua proses kerja ini, biasanya terjadi dalam beberapa detik.
+
 ##	Mendemonstrasikan dan Menjelaskan Komponen dari Contoh Uniform Resource Locator (URL) [v]
+Uniform Resource Locator atau URL adalah alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di internet. Alamat ini memungkinkan Anda mengakses informasi dari komputer atau lokasi online, seperti web server atau penyimpanan cloud. URL terdiri dari 4 komponen, yaitu:
+- Domain
+- Protokol
+- Direktori
+- Nama host komputer
+
 ##	Mencoba Pelacakan Informasi Server dari Alamat Domain [v]
+https://who.is/whois/cnnindonesia.com
+
 ##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
+
+
 ##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
 ##	Mencoba Pembuatan File JSON [v]
 ##	Mencoba Penggunaan Web Hosting dengan Untuk Halaman HTML [v]
@@ -82,6 +99,7 @@ Percobaan pada VS Code
 ##	Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
 ##	Eksplorasi Top Github Project yang Diminati
 ##	Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspiratif Bertema Informatika
+https://www.linkedin.com/in/annisa-rasha-a8b4742a7/
 ##	Mengikuti Workshop/Event/Course Terkait IT
 ##	Membaca dan Mengambil Inspirasi dari Buku Bertema Informatika
 
