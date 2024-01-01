@@ -27,7 +27,6 @@ https://drive.google.com/file/d/1SoKI44itnhsENr94iaqNOmvm5FJ5dVB2/view?usp=shari
 ##	Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v]
 
 ##	Mendemostrasikan Pembuatan Aplikasi/Game pada Platform: Mobile/Desktop/Web Browser
-
 https://www.youtube.com/watch?v=KDb7iKpugsM&t=24s
 
 ##	Mencoba Instalasi Database (PostgreSQL/MySQL/dsb) [v]
@@ -56,19 +55,44 @@ https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=shari
 
 ##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
 ##	Mencoba Pembuatan File JSON [v]
+https://drive.google.com/file/d/1QreU4YQLwP1fSz6tbsVrikyLEagWR4XS/view?usp=sharing
+
 ##	Mencoba Penggunaan Web Hosting dengan Untuk Halaman HTML [v]
 ##	Mencoba Penggunaan Web Hosting dengan Untuk Web Service [v]
 ##	Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v]
 ##	Mendemonstrasikan Penggunaan Developer Tools pada Web Browser (Firefox/Chrome) [v]
 ##	Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP/AWS/Azure) [v]
+Cloud computing (komputasi awan) atau Layanan Cloud Service merupakan teknologi yang mengubah internet menjadi pusat server. Teknologi ini memungkinkan penggunanya mengelola data dan aplikasi dengan mudah. 
+
+Melalui teknologi ini, pengguna juga dapat mengakses data dan informasi dari internet tanpa perlu melakukan penginstalan aplikasi. Layanan ini memungkinkan pengguna untuk mengakses penyimpanan berbasis internet secara fleksibel dan real-time ke sumber daya jaringan, seperti data, software, dan lain sebagainya. 
+
+Karena layanan ini berbasis internet, setiap user perlu memastikan memiliki konektivitas internet stabil dan andal untuk bisa mengambil informasi di dalamnya. Di balik itu, layanan ini menawarkan kemudahan pada user untuk bisa mengakses data dari mana saja melalui berbagai perangkat. 
+
+
 ##	Mencoba Penggunaan Content Management System (Wordpress) [v]
+link wordpress: blogpunyaacha.wordpresss.com
+
 ##	Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
+https://drive.google.com/file/d/1F9Q07Mp-CGSaZ4uWWOETRKpfk02XkR2K/view?usp=sharing
+
 ##	Mencoba Edit Konten Multimedia (Image, Audio, Video) [v]
+https://drive.google.com/file/d/14rTXG0M9X6kLHoml7pw-Hq8KSN9NTEk7/view?usp=sharing
+
 ##	Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v]
+https://drive.google.com/file/d/1qndM_Ic7H1iP_YbjDoLTNroYKUSU4feU/view?usp=sharing
+
 ##	Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
+https://drive.google.com/file/d/1jQThjvftcugXPZcrbVrXpBFmgty-W40j/view?usp=sharing
+
 ##	Mencoba Web Tool AI Discriminative (Image Classification) [v]
+https://drive.google.com/file/d/1E-l1PAoMEzy-3WX2Bk1sKRcTPMiqyv4P/view?usp=sharing
+
 ##	Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]
+https://drive.google.com/file/d/1bzZhEFljipD82s89OCCVQhhkEu75aead/view?usp=sharing
+
 ##	Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v]
+https://drive.google.com/file/d/1bYAstZoHCZDrz9e5Kmf-w0b2J1X7U-Vr/view?usp=sharing
+
 ##	Mencoba Data Visualization dengan Tools [v]
 ##	Mencoba Data Visualization dengan Code [v]
 ##	Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
@@ -85,9 +109,12 @@ https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=shari
 ##	Eksplorasi Lowongan Pekerjaan IT
 ##	Eksplorasi Lowongan Freelancer IT (Upwork/Toptal/Freelancer.com)
 ##	Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
+https://drive.google.com/file/d/1bgX6E6bXMcBZFVHnj1kCtsO4tHCph8nm/view?usp=sharing
+
 ##	Eksplorasi Top Github Project yang Diminati
 ##	Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspiratif Bertema Informatika
 https://www.linkedin.com/in/annisa-rasha-a8b4742a7/
+
 ##	Mengikuti Workshop/Event/Course Terkait IT
 ##	Membaca dan Mengambil Inspirasi dari Buku Bertema Informatika
 
