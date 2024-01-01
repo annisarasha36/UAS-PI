@@ -1,52 +1,40 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking
-Computational thinking adalah proses berpikir untuk menyelesaikan masalah dengan efektif dan efisien. Dalam ilmu komputer, proses berpikir ini dilakukan sebelum mulai menulis coding atau pemrograman. Jika sudah direncanakan dengan baik, makan coding yang baik akan sesuai dengan kebutuhan dan dapat diselesaikan dengan cepat dan tepat. Merencanakan masalah kompleks kehidupan di masa sekarang dan masa depan ini mirip seperti merencanakan coding. Kuncinya adalah memahami masalah dengan tuntas dan mencari cara menyelesaikannya dengan efektif dan efisien.
-- Berdasarkan konsepnya, pemikiran komputasional memiliki empat taham utama, antara lain:
-- Decomposition (Dekomposisi): memecah masalah kompleks menjadi bagian kecil dan sederhana.
-- Pattern recognition (Pengenalan pola): mencari pola atau persamaan dalam sebuah masalah.
-- Abstraction (Abstraksi): melihat permasalahan, melakukan generalisasi, dan mengidentifikasi informasi.
-- Algorithm (algoritma): mengembangkan sistem, membuat daftar petunjuk dan langkah-langkah pemecahan masalah secara efektif dan efisien.
+https://blogpunyaacha.wordpress.com/2024/01/01/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi
-### A.	Mobile Computing
-Mobile computing adalah teknologi komputasi modern yang memungkinkan pengguna untuk dapat bergerak tanpa harus duduk di depan layar komputer. Mobile computing didesain untuk dapat melakukan transmisi dan komunikasi data, suara, gambar, maupun video dengan menggunakan jaringan nirkabel. Seperti gelombang radio, sinyal wifi, RFID, bluetooth, dsb. Contoh mobile computing adalah smartphone, laptop, tablet, GPS tracker, smartwatch, embedded system, dll.
-### B.	Grid Computing
-Grid computing adalah teknologi komputasi yang terdistribusi/terpisah namun melakukan koordinasi pada sebuah mekanisme guna mendukung sebuah tugas. Unsur utama dalam grid computing adalah bagaimana setiap komputer dapat berbagi sumberdaya untuk meningkatkan quality of service. Sistem grid computing merupakan sistem terdistribusi, yang tidak menggunakan pengendali pusat untuk mengatur alokasi resource, konsep ini merupakan konsep peer to peer dalam dunia jaringan komputer. Protocol yang digunakan harus bersifat terbuka agar dapat dimengerti oleh seluruh perangkat komputasi yang terhubung. Jaringan komputer grid membentuk supercomputer virtual berkat adanya kerjasama antar setiap perangkat yang menyusunnya. Contoh proyek yang menerapkkan Grid Computing adalah:
-- Medical image – eDiamond projects
-- Penemuan obat – Computer Aided Drug Discovery
-- Big Science – Deisa
-- Desain Mikroprocessor – IBM Austin
-- Ilmu Pengetahuan – Advanced Industrial Science and Technology
-### C.	Cloud Computing
-Cloud computing merupakan komputasi modern yang memungkinkan akses sebuah software/aplikasi melalui internet, cloud computing dikembangkan untuk mendukung reliabilitas sebuah layanan.
-Cloud computing sendiri terdiri dari beberapa layanan
-- Software as services; Gmail, Google Docs, Google Forms, Telegram, Office 365
-- Platform as services; AWS, Microsoft Azure
-- Infrastructure as services; Digital Ocean, Rackspace, AWS, Microsoft Azure
-
-## Mengaktifkan dan Mencoba Google Colab
+https://blogpunyaacha.wordpress.com/2024/01/01/jenis-jenis-mesin-komputasi/
+## Mengaktifkan dan Mencoba Google Colab [v]
 https://colab.research.google.com/drive/1GRjM9Zkxm_BoVD4-8uuwkQbGDxVJQIg_?usp=sharing
-## Mencoba Console Sistem Operasi
-- Command Prompt
-
-- Linux Terminal Menggunakan Google Colab
+## Mencoba Console Sistem Operasi [v]
+### Command Prompt
+https://drive.google.com/file/d/13SicKcP1PUsqnRPhZUG2CW-BKBclRyFQ/view?usp=sharing
+### Linux Terminal Menggunakan Google Colab
+  https://drive.google.com/file/d/15Kqpx719KBZZ7CV3MwrpK04ciGemmDz-/view?usp=sharing
  
-##Membuat  Algoritma dalam Bentuk Flow Chart
+## Membuat  Algoritma dalam Bentuk Flow Chart
+
+![Flowchart](https://github.com/annisarasha36/UAS-PI/blob/main/Flowchart%20Algoritma.png)
  
 ## Mencoba Scratch Bahasa Indonesia [v]
 https://scratch.mit.edu/projects/944277094
  
 ##	Mencoba Algoritma Bubble Sort Menggunakan Java [v]
+https://drive.google.com/file/d/1zOZx4UlNmpytHnQyskJo4wtovRjltD7s/view?usp=sharing
  
-##	Mencoba dan Mendemonstrasikan Pengunaan IDE
+##	Mencoba dan Mendemonstrasikan Penggunaan IDE
 Percobaan pada VS Code
+https://drive.google.com/file/d/1SoKI44itnhsENr94iaqNOmvm5FJ5dVB2/view?usp=sharing
  
 ##	Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v]
 
 ##	Mendemostrasikan Pembuatan Aplikasi/Game pada Platform: Mobile/Desktop/Web Browser
+
 https://www.youtube.com/watch?v=KDb7iKpugsM&t=24s
 
 ##	Mencoba Instalasi Database (PostgreSQL/MySQL/dsb) [v]
+https://drive.google.com/file/d/1nahcT9F1duW8h6uHhRAqjMPozk38N5jH/view?usp=sharing
  
 ##	Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer(Dbeaver/dsb) [v]
+https://drive.google.com/file/d/1JB4pG7Hwah2jvAs7IZAJXKUDO7Izvd5T/view?usp=sharing
  
 ##	Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]
 Web browser adalah perangkat lunak yang memungkinkan kamu untuk mencari, mengakses, dan menampilkan halaman website di internet. Perlu diketahui, web browser bukanlah mesin pencarian melainkan sebuah perangkat lunak yang menaampilkan halaman web seperti Google Chrome, Microsoft Edge, Mozilla Firefox, atau Opera. 
@@ -62,9 +50,9 @@ Uniform Resource Locator atau URL adalah alamat web yang mengarah ke website, ha
 
 ##	Mencoba Pelacakan Informasi Server dari Alamat Domain [v]
 https://who.is/whois/cnnindonesia.com
+https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=sharing
 
 ##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
-
 
 ##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
 ##	Mencoba Pembuatan File JSON [v]
