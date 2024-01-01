@@ -47,26 +47,26 @@ Percobaan pada VS Code
  
 ##	Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v]
 ##	Mendemonstrasikan dan Menjelaskan Komponen dari Contoh Uniform Resource Locator (URL) [v]
-##	Mencoba Pelacakan Informasi Server dari Alamat Domain
-##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript
-##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML
-##	Mencoba Pembuatan File JSON
-##	Mencoba Penggunaan Web Hosting dengan Untuk Halaman HTML
-##	Mencoba Penggunaan Web Hosting dengan Untuk Web Service
-##	Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman
-##	Mendemonstrasikan Penggunaan Developer Tools pada Web Browser (Firefox/Chrome)
-##	Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP/AWS/Azure)
-##	Mencoba Penggunaan Content Management System (Wordpress)
+##	Mencoba Pelacakan Informasi Server dari Alamat Domain [v]
+##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
+##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
+##	Mencoba Pembuatan File JSON [v]
+##	Mencoba Penggunaan Web Hosting dengan Untuk Halaman HTML [v]
+##	Mencoba Penggunaan Web Hosting dengan Untuk Web Service [v]
+##	Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v]
+##	Mendemonstrasikan Penggunaan Developer Tools pada Web Browser (Firefox/Chrome) [v]
+##	Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP/AWS/Azure) [v]
+##	Mencoba Penggunaan Content Management System (Wordpress) [v]
 ##	Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
-##	Mencoba Edit Konten Multimedia (Image, Audio, Video)
-##	Mencoba Pembuatan Game dan Simulasi Menggunakan Logo
-##	Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab
-##	Mencoba Web Tool AI Discriminative (Image Classification)
-##	Mencoba Web Tool AI Generative (Text to Image, Text to Text)
-##	Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace
-##	Mencoba Data Visualization dengan Tools
-##	Mencoba Data Visualization dengan Code 
-##	Mendaftar dan Mencoba Eksplorasi HuggingFace
+##	Mencoba Edit Konten Multimedia (Image, Audio, Video) [v]
+##	Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v]
+##	Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
+##	Mencoba Web Tool AI Discriminative (Image Classification) [v]
+##	Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v]
+##	Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v]
+##	Mencoba Data Visualization dengan Tools [v]
+##	Mencoba Data Visualization dengan Code [v]
+##	Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
 ##	Mendaftar dan Mencoba Eksplorasi Kaggle [v]
 ##	Mencoba Protokol Komunikasi IoT (MQTT) [v]
 ##	Mencoba Memproses File CSV Menggunakan Google Colab [v]
