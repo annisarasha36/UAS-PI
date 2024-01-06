@@ -49,6 +49,7 @@ Uniform Resource Locator atau URL adalah alamat web yang mengarah ke website, ha
 
 ##	Mencoba Pelacakan Informasi Server dari Alamat Domain [v]
 https://who.is/whois/cnnindonesia.com
+
 https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=sharing
 
 ##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
@@ -62,15 +63,13 @@ https://drive.google.com/file/d/1QreU4YQLwP1fSz6tbsVrikyLEagWR4XS/view?usp=shari
 ##	Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v]
 ##	Mendemonstrasikan Penggunaan Developer Tools pada Web Browser (Firefox/Chrome) [v]
 ##	Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP/AWS/Azure) [v]
-Cloud computing (komputasi awan) atau Layanan Cloud Service merupakan teknologi yang mengubah internet menjadi pusat server. Teknologi ini memungkinkan penggunanya mengelola data dan aplikasi dengan mudah. 
+https://drive.google.com/file/d/1q8EeDtgE55drxlapak8QjNCc1TrOCNkj/view?usp=sharing
 
-Melalui teknologi ini, pengguna juga dapat mengakses data dan informasi dari internet tanpa perlu melakukan penginstalan aplikasi. Layanan ini memungkinkan pengguna untuk mengakses penyimpanan berbasis internet secara fleksibel dan real-time ke sumber daya jaringan, seperti data, software, dan lain sebagainya. 
-
-Karena layanan ini berbasis internet, setiap user perlu memastikan memiliki konektivitas internet stabil dan andal untuk bisa mengambil informasi di dalamnya. Di balik itu, layanan ini menawarkan kemudahan pada user untuk bisa mengakses data dari mana saja melalui berbagai perangkat. 
-
+https://blogpunyaacha.wordpress.com/2024/01/01/layanan-cloud-service/
 
 ##	Mencoba Penggunaan Content Management System (Wordpress) [v]
-link wordpress: blogpunyaacha.wordpresss.com
+link wordpress: 
+https://blogpunyaacha.wordpress.com/
 
 ##	Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video)
 https://drive.google.com/file/d/1F9Q07Mp-CGSaZ4uWWOETRKpfk02XkR2K/view?usp=sharing
@@ -94,12 +93,24 @@ https://drive.google.com/file/d/1bzZhEFljipD82s89OCCVQhhkEu75aead/view?usp=shari
 https://drive.google.com/file/d/1bYAstZoHCZDrz9e5Kmf-w0b2J1X7U-Vr/view?usp=sharing
 
 ##	Mencoba Data Visualization dengan Tools [v]
+https://drive.google.com/file/d/1bX1rzu9bvo1PdL7UHXIgqioj_PRScv7r/view?usp=sharing
+
 ##	Mencoba Data Visualization dengan Code [v]
+https://drive.google.com/file/d/1S0LNhCc3D23yqFYrKeNhlOhAJlN9mBBN/view?usp=sharing
+
 ##	Mendaftar dan Mencoba Eksplorasi HuggingFace [v]
+https://drive.google.com/file/d/16wLG8YzktciJpm1BnNvXSKf5RafBknmn/view?usp=sharing
+
 ##	Mendaftar dan Mencoba Eksplorasi Kaggle [v]
+
 ##	Mencoba Protokol Komunikasi IoT (MQTT) [v]
+
 ##	Mencoba Memproses File CSV Menggunakan Google Colab [v]
+https://drive.google.com/file/d/1TORWAqSJzw8a23ZasrnbiuRG51UN5O1R/view?usp=sharing
+
 ##	Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v]
+https://drive.google.com/file/d/1hzGSDycwsrADMo1mDRNfrQOORyRUHKYd/view?usp=sharing
+
 ##	Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v]
 ##	Eksplorasi Artikel Jurnal/Conference di Repository Terekognisi Internasional (IEEE/Arxiv/Science Direct/ACM/DBLP) [v]
 ##	Menonton Video Akhir Tugas Akhir Informatika
