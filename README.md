@@ -115,16 +115,28 @@ https://drive.google.com/file/d/1hzGSDycwsrADMo1mDRNfrQOORyRUHKYd/view?usp=shari
 ##	Eksplorasi Artikel Jurnal/Conference di Repository Terekognisi Internasional (IEEE/Arxiv/Science Direct/ACM/DBLP) [v]
 ##	Menonton Video Akhir Tugas Akhir Informatika
 ##	Mengkesplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
+https://karirlab.co/article/pekerjaan-di-bidang-it-peluang-dan-tantangan-bagi-mahasiswa
+
 ##	Eksplorasi Tools untuk Belajar Bahasa Inggris (Duolingo)
+
 ##	Eksplorasi Tools untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+
 ##	Eksplorasi Lowongan Pekerjaan IT
+https://www.google.com/search?q=lowongan+pekerjaan+IT&oq=lowongan+pekerjaan+IT&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIICAgQABgWGB4yCggJEAAYDxgWGB6oAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&sqi=2&ved=2ahUKEwick-GipsiDAxWg1jgGHfyJAkkQutcGKAF6BAgIEAY&sxsrf=AM9HkKnszNFEM03jTlVHL6AvEk3CsgCCLg:1704528174408#htivrt=jobs&htidocid=MhD9ytzOOgY2uT_VAAAAAA%3D%3D&fpstate=tldetail
+
 ##	Eksplorasi Lowongan Freelancer IT (Upwork/Toptal/Freelancer.com)
+https://id.indeed.com/jobs?q=Freelance%2C+IT&l=Jakarta&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&vjk=39cfe562047bfed2
+
 ##	Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh
 https://drive.google.com/file/d/1bgX6E6bXMcBZFVHnj1kCtsO4tHCph8nm/view?usp=sharing
 
 ##	Eksplorasi Top Github Project yang Diminati
+https://drive.google.com/file/d/182qIHWC4ntDHAtIJHiBEIoE6KNO48FU3/view?usp=sharing
+
 ##	Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspiratif Bertema Informatika
 https://www.linkedin.com/in/annisa-rasha-a8b4742a7/
+
+## Membangun Profil Github Page
 
 ##	Mengikuti Workshop/Event/Course Terkait IT
 ##	Membaca dan Mengambil Inspirasi dari Buku Bertema Informatika
