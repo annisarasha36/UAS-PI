@@ -25,6 +25,7 @@ Percobaan pada VS Code
 https://drive.google.com/file/d/1SoKI44itnhsENr94iaqNOmvm5FJ5dVB2/view?usp=sharing
  
 ##	Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v]
+https://drive.google.com/file/d/104FjIJk6HMZ7fAMiJpgxDqSzP5UC05ve/view?usp=sharing
 
 ##	Mendemostrasikan Pembuatan Aplikasi/Game pada Platform: Mobile/Desktop/Web Browser
 https://www.youtube.com/watch?v=KDb7iKpugsM&t=24s
@@ -55,10 +56,12 @@ https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=shari
 ##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
 
 ##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
+
 ##	Mencoba Pembuatan File JSON [v]
 https://drive.google.com/file/d/1QreU4YQLwP1fSz6tbsVrikyLEagWR4XS/view?usp=sharing
 
 ##	Mencoba Penggunaan Web Hosting dengan Untuk Halaman HTML [v]
+
 ##	Mencoba Penggunaan Web Hosting dengan Untuk Web Service [v]
 ##	Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v]
 ##	Mendemonstrasikan Penggunaan Developer Tools pada Web Browser (Firefox/Chrome) [v]
@@ -104,6 +107,7 @@ https://drive.google.com/file/d/16wLG8YzktciJpm1BnNvXSKf5RafBknmn/view?usp=shari
 ##	Mendaftar dan Mencoba Eksplorasi Kaggle [v]
 
 ##	Mencoba Protokol Komunikasi IoT (MQTT) [v]
+![MyMQTT](https://github.com/annisarasha36/UAS-PI/blob/main/MyMQTT.jpg)
 
 ##	Mencoba Memproses File CSV Menggunakan Google Colab [v]
 https://drive.google.com/file/d/1TORWAqSJzw8a23ZasrnbiuRG51UN5O1R/view?usp=sharing
@@ -118,8 +122,10 @@ https://drive.google.com/file/d/1hzGSDycwsrADMo1mDRNfrQOORyRUHKYd/view?usp=shari
 https://karirlab.co/article/pekerjaan-di-bidang-it-peluang-dan-tantangan-bagi-mahasiswa
 
 ##	Eksplorasi Tools untuk Belajar Bahasa Inggris (Duolingo)
+![Duolingo](https://github.com/annisarasha36/UAS-PI/blob/main/Duolingo.jpg)
 
 ##	Eksplorasi Tools untuk Belajar Berbicara Bahasa Inggris (HelloTalk)
+![HelloTalk](https://github.com/annisarasha36/UAS-PI/blob/main/HelloTalk.jpg)
 
 ##	Eksplorasi Lowongan Pekerjaan IT
 https://www.google.com/search?q=lowongan+pekerjaan+IT&oq=lowongan+pekerjaan+IT&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIICAgQABgWGB4yCggJEAAYDxgWGB6oAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&sqi=2&ved=2ahUKEwick-GipsiDAxWg1jgGHfyJAkkQutcGKAF6BAgIEAY&sxsrf=AM9HkKnszNFEM03jTlVHL6AvEk3CsgCCLg:1704528174408#htivrt=jobs&htidocid=MhD9ytzOOgY2uT_VAAAAAA%3D%3D&fpstate=tldetail
@@ -137,7 +143,11 @@ https://drive.google.com/file/d/182qIHWC4ntDHAtIJHiBEIoE6KNO48FU3/view?usp=shari
 https://www.linkedin.com/in/annisa-rasha-a8b4742a7/
 
 ## Membangun Profil Github Page
+https://github.com/annisarasha36
 
 ##	Mengikuti Workshop/Event/Course Terkait IT
+![Course Online](https://github.com/annisarasha36/UAS-PI/blob/main/Course%20Online.png)
+
 ##	Membaca dan Mengambil Inspirasi dari Buku Bertema Informatika
+https://blogpunyaacha.wordpress.com/2024/01/06/membaca-buku-bertema-informatika/
 
