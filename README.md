@@ -116,8 +116,14 @@ https://drive.google.com/file/d/1TORWAqSJzw8a23ZasrnbiuRG51UN5O1R/view?usp=shari
 https://drive.google.com/file/d/1hzGSDycwsrADMo1mDRNfrQOORyRUHKYd/view?usp=sharing
 
 ##	Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v]
+https://blogpunyaacha.wordpress.com/2024/01/07/penjelasan-jurnal-conference-artikel-dan-grade-jurnal/
+
 ##	Eksplorasi Artikel Jurnal/Conference di Repository Terekognisi Internasional (IEEE/Arxiv/Science Direct/ACM/DBLP) [v]
+https://drive.google.com/file/d/1qz72tzaKwGacsZSPbL1gx0XzIRbt6rFk/view?usp=sharing
+
 ##	Menonton Video Akhir Tugas Akhir Informatika
+![TugasAkhir](https://github.com/annisarasha36/UAS-PI/blob/main/Tugas%20Akhir%20Informatika.png)
+
 ##	Mengkesplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati
 https://karirlab.co/article/pekerjaan-di-bidang-it-peluang-dan-tantangan-bagi-mahasiswa
 
