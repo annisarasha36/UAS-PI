@@ -54,6 +54,7 @@ https://who.is/whois/cnnindonesia.com
 https://drive.google.com/file/d/1PvT0CTBlNLWatdsg4VerHrsCdG0_RH3J/view?usp=sharing
 
 ##	Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v]
+https://github.com/annisarasha36/UAS-PI/tree/main/HalamanWeb
 
 ##	Mencoba Penerapan Teknik Search Engine Optimization (SEO) pada HTML [v]
 
